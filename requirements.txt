@@ -1,0 +1,6 @@
+numpy
+Pillow
+torch
+torchvision
+tqdm==4.54.1
+typing-extensions==3.7.4.3
